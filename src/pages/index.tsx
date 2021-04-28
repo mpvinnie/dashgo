@@ -12,7 +12,7 @@ export default function SignIn(): JSX.Element {
         bg="gray.800"
         p="8"
         borderRadius={8}
-        flexDir="column"
+        flexDirection="column"
       >
         <Stack spacing="4">
           <Input name="email" type="email" label="E-mail" />
