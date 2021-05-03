@@ -39,7 +39,7 @@ O projeto pode ser executado com npm ou yarn, então escolha uma das abordagens 
 
 * Para rodar o projeto, você precisar instalar o [NodeJS](https://nodejs.org/en/download/) na sua máquina.
 
-* O **Npm** é distribuído com o Node.js, o que significa que quando você baixa o Node.js, o npm é instalado automaticamente no seu computador. [Download Node.js](https://nodejs.org/en/download/)
+* **Npm** é distribuído com o Node.js, o que significa que quando você baixa o Node.js, o npm é instalado automaticamente no seu computador. [Download Node.js](https://nodejs.org/en/download/)
 
 * O **Yarn** é um gerenciador de pacotes criado pela equipe do Facebook e costuma ser mais rápido que o npm em geral.  [Download Yarn](https://yarnpkg.com/en/docs/install)
 
