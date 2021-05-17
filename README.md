@@ -69,4 +69,4 @@ $ npm dev
 Isso é tudo! =)
 
 ## Licença
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/).
